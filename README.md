@@ -2,7 +2,7 @@
 
 ## Senior Software Engineer / Team Lead
 
-(34 Years)
+(35 Years)
 
 > Highly skilled Software Engineer with 12 years of professional experience with a proven track record of delivering innovative and efficient software solutions as an Engineer and Team Lead. Proficient in Typescript, Rust, and PHP.
 
@@ -66,7 +66,7 @@
 
 ### AWWCOR, INC. (Remote)
 
-_Jul 2018 - now_ (6 years 3 months)
+_Jul 2018 - now_ (7 years)
 
 **Senior Software Engineer** _Nov 2023 – now_
 
@@ -83,7 +83,7 @@ Key responsibilities:
 - Actively maintaining our core backing libraries and upgrading to the latest dependencies using lerna.
 - Actively participating in design sessions for the new features.
 - Unit/Integration testing of the code written using mocha/jest.
-- Actively do coaching sessions and participate in pair programming and different brainstorming sessions.
+- Actively participate in coaching sessions and pair programming, as well as various brainstorming sessions.
 
 **Software Team Lead** _Oct 2019 - Oct 2023_ (4 Years)
 
@@ -112,11 +112,11 @@ Key responsibilities:
 
 Key Responsibilities:
 
-- Designed and developed clinical business technology solutions using Typescript, MySQL and AWS lambdas
+- Designed and developed clinical business technology solutions using TypeScript, MySQL, and AWS lambdas
 - Helped shape the technical architecture for new commercial software products
 - Built scalable application services deployed on AWS Cloud, ensuring performance and efficiency
-- Troubleshot complex issues in production applications to minimize downtime
-- Coached juniours into advancing the next carrer level
+- Troubleshoot complex issues in production applications to minimize downtime
+- Coached juniors into advancing the next career level
   
 
 ### Pentalog, S.A. (Moldova, Chisinau)
@@ -128,8 +128,8 @@ _Dec 2012 - Aug 2018_  (5 years 8 months)
 Key responsibilities:
 
 - Design of the applications and database architecture.
-- Proposing improvements for the success of the project (quality, performance).
-- Code refactoring, bug-fixing and unit testing.
+- Proposing improvements to enhance the project's success (quality, performance).
+- Code refactoring, bug-fixing, and unit testing.
 - Troubleshoot issues in the production applications.
 - Training and coaching trainees on front-end technologies.
 - Preparing internship programs on: HTML, CSS, JavaScript, Angular 1, Angular 2, Node.js, MongoDB.
