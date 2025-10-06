@@ -4,7 +4,7 @@
 
 (35 Years)
 
-> Highly skilled Software Engineer with 12 years of professional experience with a proven track record of delivering innovative and efficient software solutions as an Engineer and Team Lead. Proficient in Typescript, Rust, and PHP.
+> Highly skilled Software Engineer with 12 years of professional experience with a proven track record of delivering innovative and efficient software solutions as an Engineer and Engineering Manager. Proficient in Typescript/Nodejs, Rust, and PHP.
 
 ### Contact
 
@@ -34,6 +34,7 @@
         <li> Rust
           <ul>
             <li> Axum </li>
+            <li> Tokio </li>
           </ul>
         </li>
         <li> PHP
@@ -64,13 +65,18 @@
 
 ## Work Experience
 
+---
 ### AWWCOR, INC. (Remote)
+_Jul 2018 - now_ (7 years 3 months)
 
-_Jul 2018 - now_ (7 years)
+Working for a US-based B2B SaaS company that provides software solutions for the clinical research industry. It provides a cloud-based platform that helps big pharmaceutical companies streamline their clinical trials, manage their data end ensure compliance with FDA regulations.
 
+The code base consist of 36 applications and more than 200 lambdas written in Java and Nodejs/Typescript more than 5 million lines of code.
+Technological stack: AWS, Java, Node.js, TypeScript, MySQL/PostgreSQL, Redshift, Lambda, SQS.
+
+
+#### Positions held:
 **Senior Software Engineer** _Nov 2023 – now_
-
-> After four years of TL, I stepped down to Senior Software Engineer in the same company to fulfill my drive for technical proficiency.
 
 Key responsibilities:
 
@@ -85,9 +91,10 @@ Key responsibilities:
 - Unit/Integration testing of the code written using mocha/jest.
 - Actively participate in coaching sessions and pair programming, as well as various brainstorming sessions.
 
-**Software Team Lead** _Oct 2019 - Oct 2023_ (4 Years)
+**Software Team Lead**/**Engineering Manager** _Oct 2019 - Oct 2023_ (4 Years)
+At the peak was leading two teams of 13 engineers. My initial team of 4 people and the second team that rapidly grew to 9 people in less than a year. The second team was created from scratch, and I was heavily involved in the hiring process, interviewing and selecting the right fit for our team.
 
-> I was promoted to the TL position, which I gladly accepted. At peak, I led two teams simultaneously, totaling 14 people.
+Both teams combined I was responsible to oversee 6 applications and around 30 lambdas of code in nodejs/typescript around 1.4 million lines of code.
 
 Key responsibilities:
 
@@ -107,9 +114,6 @@ Key responsibilities:
   - Collaborates with other departments to achieve business objectives.
 
 **Software Engineer** _Jul 2018 – Sep 2019_ (1 Year 1 Month)
-
-> Some highlights from my experience:
-
 Key Responsibilities:
 
 - Designed and developed clinical business technology solutions using TypeScript, MySQL, and AWS lambdas
@@ -118,7 +122,7 @@ Key Responsibilities:
 - Troubleshoot complex issues in production applications to minimize downtime
 - Coached juniors into advancing the next career level
   
-
+---
 ### Pentalog, S.A. (Moldova, Chisinau)
 
 _Dec 2012 - Aug 2018_  (5 years 8 months)
